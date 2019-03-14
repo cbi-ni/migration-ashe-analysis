@@ -1,0 +1,110 @@
+Description,Code,Number of jobs,Median,Median annual percentage change,Mean,Mean annual percentage change,10,20,25,30,40,60,70,75,80,90
+All,,649,"22,016",3.8,"25,704",2.9,"7,933","11,999","14,150","15,843","18,849","25,718","30,264","32,882","36,288","44,538"
+All Industries and Services,,649,"22,016",3.8,"25,704",2.9,"7,933","11,999","14,150","15,843","18,849","25,718","30,264","32,882","36,288","44,538"
+All Index of Production Industries,,96,"25,174",4.9,"30,419",8.8,"14,667","17,644","18,884","20,096","22,980","27,696","31,474","32,901","36,063",x
+All Manufacturing,,89,"24,473",4.1,"29,859",9.2,"14,653","17,500","18,717","19,841","22,253","27,000","30,510","32,403","34,703",x
+All Service Industries,,523,"21,119",3.9,"24,848",1.7,"7,279","11,077","12,927","14,804","17,836","25,009","29,935","33,031","36,387","44,472"
+"  Agriculture, forestry and fishing ",A,x,"16,024",-1.1,"16,535",-4.4,x,x,x,x,"14,160","17,499",x,x,x,x
+"Crop and animal production, hunting and related service activities ",1,x,"16,478",-0.2,"16,824",-4.0,x,x,x,x,"14,714","18,025",x,x,x,x
+Forestry and logging ,2,..,,,,,,,,,,,,,,
+Fishing and aquaculture ,3,..,,,,,,,,,,,,,,
+  Mining and quarrying ,B,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Mining of coal and lignite ,5,:,,,,,,,,,,,,,,
+Extraction of crude petroleum and natural gas ,6,:,,,,,,,,,,,,,,
+Mining of metal ores ,7,:,,,,,,,,,,,,,,
+Other mining and quarrying ,8,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+  Manufacturing ,C,89,"24,473",4.1,"29,859",9.2,"14,653","17,500","18,717","19,841","22,253","27,000","30,510","32,403","34,703",x
+Mining support service activities ,9,:,,,,,,,,,,,,,,
+Manufacture of food products ,10,18,"19,129",3.8,"22,390",2.2,"10,154","14,651","15,974","16,307","17,811","20,966","23,509","25,189",x,x
+Manufacture of beverages ,11,..,,,,,,,,,,,,,,
+Manufacture of tobacco products ,12,:,,,,,,,,,,,,,,
+Manufacture of textiles ,13,x,"20,354",,"25,503",,x,x,x,x,"19,041",x,x,x,x,x
+Manufacture of wearing apparel ,14,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Manufacture of leather and related products ,15,:,,,,,,,,,,,,,,
+"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials ",16,x,x,,"27,032",24.0,x,x,x,x,x,x,x,x,x,x
+Manufacture of paper and paper products ,17,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Printing and reproduction of recorded media ,18,x,x,,"17,801",4.5,x,x,x,x,x,x,x,x,x,x
+Manufacture of coke and refined petroleum products ,19,:,,,,,,,,,,,,,,
+Manufacture of chemicals and chemical products ,20,x,x,,"21,274",-21.4,x,x,x,x,x,x,x,x,x,x
+Manufacture of basic pharmaceutical products and pharmaceutical preparations ,21,x,"26,431",15.6,x,,x,x,x,"23,187","25,290",x,x,x,x,x
+Manufacture of rubber and plastic products ,22,7,"24,455",-11.7,"29,610",-1.0,x,x,"18,531","19,989","20,985",x,x,x,x,x
+Manufacture of other non-metallic mineral products ,23,x,"26,643",6.7,"27,179",5.1,x,x,x,"21,028","23,396","28,118",x,x,x,x
+Manufacture of basic metals ,24,x,x,,"25,384",,x,x,x,x,x,x,x,x,x,x
+"Manufacture of fabricated metal products, except machinery and equipment ",25,9,"25,032",,x,,x,"18,350","19,094","21,082","23,280","26,757",x,x,x,x
+"Manufacture of computer, electronic and optical products ",26,x,"27,863",-0.8,"33,112",3.4,x,x,"23,833","24,302","26,106",x,x,x,x,x
+Manufacture of electrical equipment ,27,x,x,,"38,556",20.7,x,x,x,x,x,x,x,x,x,x
+Manufacture of machinery and equipment n.e.c. ,28,x,"26,974",4.0,"29,537",6.2,x,x,"21,783","22,722","25,805","30,576",x,x,x,x
+"Manufacture of motor vehicles, trailers and semi-trailers ",29,x,"24,241",0.2,"26,180",0.7,x,x,"20,864","21,024","23,625","25,548",x,x,x,x
+Manufacture of other transport equipment ,30,9,"30,375",1.0,"38,560",2.2,x,"23,443","24,865","26,033","27,634","32,949",x,x,x,x
+Manufacture of furniture ,31,x,x,,"19,531",7.2,x,x,x,x,x,x,x,x,x,x
+Other manufacturing ,32,x,x,,"22,081",-0.9,x,x,x,x,x,x,x,x,x,x
+Repair and installation of machinery and equipment ,33,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+"  Electricity, gas, steam and air conditioning supply ",D,x,x,,"45,673",-1.5,x,x,x,x,x,x,x,x,x,x
+"Electricity, gas, steam and air conditioning supply ",35,x,x,,"45,673",-1.5,x,x,x,x,x,x,x,x,x,x
+"  Water supply; sewerage, waste management and remediation activities ",E,x,"30,636",11.5,"31,470",7.4,x,x,x,x,"28,869","32,406",x,x,x,x
+"Water collection, treatment and supply ",36,x,"32,129",7.3,"37,553",10.3,x,x,x,x,x,x,x,x,x,x
+Sewerage ,37,..,,,,,,,,,,,,,,
+"Waste collection, treatment and disposal activities; materials recovery ",38,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Remediation activities and other waste management services ,39,..,,,,,,,,,,,,,,
+  Construction ,F,25,"25,354",5.4,"27,297",4.5,"10,221","15,328","16,132","19,079","22,174","28,439","30,760","32,642","35,946",x
+Construction of buildings ,41,x,x,,"26,042",9.1,x,x,x,x,x,x,x,x,x,x
+Civil engineering ,42,x,"35,855",17.6,"39,410",13.8,x,x,"26,466","27,010","30,177",x,x,x,x,x
+Specialised construction activities ,43,15,"23,387",3.4,"23,521",0.5,x,"13,815","15,531","16,768","20,730","26,052","29,051","30,275",x,x
+  Wholesale and retail trade; repair of motor vehicles and motorcycles ,G,90,"15,932",3.2,"19,053",-1.7,"5,649","8,114","9,232","10,872","13,207","18,072","21,104","23,092","26,158",x
+Wholesale and retail trade and repair of motor vehicles and motorcycles ,45,10,"21,358",2.3,"25,209",9.4,x,"15,634","16,809","17,422","18,924","23,359",x,x,x,x
+"Wholesale trade, except of motor vehicles and motorcycles ",46,24,"21,897",5.3,"26,276",2.3,"11,850","16,127","17,381","17,954","20,402","24,631","29,376","30,935",x,x
+"Retail trade, except of motor vehicles and motorcycles ",47,57,"12,163",0.9,"14,992",-4.1,"4,934","6,547","7,528","8,232","10,245","14,695","16,294","17,906","19,296",x
+  Transportation and storage ,H,22,"25,060",1.8,"26,717",0.9,"11,827","17,688","19,407","20,821","23,109","27,613","30,285","31,901",x,x
+Land transport and transport via pipelines ,49,13,"25,195",8.1,"26,304",10.4,x,"16,198","18,613","20,152","22,152","28,159","29,854","31,529",x,x
+Water transport ,50,..,,,,,,,,,,,,,,
+Air transport ,51,..,,,,,,,,,,,,,,
+Warehousing and support activities for transportation ,52,x,x,,"30,660",-13.8,x,x,x,x,x,x,x,x,x,x
+Postal and courier activities ,53,5,"24,317",-2.6,"25,290",0.5,x,x,"21,991","22,698","23,468","25,056",x,x,x,x
+  Accommodation and food service activities ,I,25,"11,517",3.2,"13,484",0.6,"3,666","5,234","6,000","6,685","8,609","13,644","15,647","16,736",x,x
+Accommodation ,55,5,"16,173",14.7,x,,x,x,x,"13,712","15,511",x,x,x,x,x
+Food and beverage service activities ,56,20,"9,021",,"10,597",-1.4,"3,491","4,530","5,606","6,000","7,298","11,778","14,197","15,024","16,645",x
+  Information and communication ,J,17,"32,559",5.4,"39,252",11.8,"13,341","20,460","22,350","24,293","27,963","38,920","43,386",x,x,x
+Publishing activities ,58,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+"Motion picture, video and television programme production, sound recording and music publishing activities ",59,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Programming and broadcasting activities ,60,x,"41,707",5.1,"38,346",1.5,x,x,x,x,x,x,x,x,x,x
+Telecommunications ,61,x,x,,"23,235",-33.0,x,x,x,x,x,x,x,x,x,x
+"Computer programming, consultancy and related activities ",62,12,"36,085",2.7,"43,463",19.6,x,"24,014","26,286","27,711","30,547","39,396",x,x,x,x
+Information service activities ,63,..,,,,,,,,,,,,,,
+  Financial and insurance activities ,K,15,"27,416",9.8,"30,363",-5.4,"11,008","16,163","17,893","19,349","22,280","31,455","37,358","41,145",x,x
+"Financial service activities, except insurance and pension funding ",64,11,"28,268",-1.3,"31,828",-10.7,x,"16,366","18,477","19,597","23,851","35,087","38,924",x,x,x
+"Insurance, reinsurance and pension funding, except compulsory social security ",65,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Activities auxiliary to financial services and insurance activities ,66,x,x,,"26,199",10.9,x,x,x,x,x,x,x,x,x,x
+  Real estate activities ,L,9,"19,383",6.7,"24,407",10.2,x,"10,233","12,144","13,526","17,721","23,292",x,x,x,x
+Real estate activities ,68,9,"19,383",6.7,"24,407",10.2,x,"10,233","12,144","13,526","17,721","23,292",x,x,x,x
+"  Professional, scientific and technical activities ",M,25,"27,299",6.5,"31,592",3.8,"11,824","17,092","18,806","19,679","24,000","30,728","35,356","37,855",x,x
+Legal and accounting activities ,69,12,"25,084",12.6,"27,251",7.0,x,"15,099","16,878","18,335","20,968","28,761","32,530",x,x,x
+Activities of head offices; management consultancy activities ,70,x,x,,x,,x,x,x,"21,110","25,660",x,x,x,x,x
+Architectural and engineering activities; technical testing and analysis ,71,x,x,,"30,869",-3.9,x,x,x,x,x,"31,437",x,x,x,x
+Scientific research and development ,72,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Advertising and market research ,73,x,x,,"26,314",24.4,x,x,x,x,x,x,x,x,x,x
+"Other professional, scientific and technical activities ",74,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Veterinary activities ,75,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+  Administrative and support service activities ,N,24,"17,598",,"20,881",,"6,957","10,239","11,482","13,120","15,940","19,419","21,821","23,422",x,x
+Rental and leasing activities ,77,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Employment activities ,78,6,"17,686",22.3,"20,892",13.4,x,x,"11,345","14,010","14,867","18,563",x,x,x,x
+"Travel agency, tour operator and other reservation service and related activities ",79,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Security and investigation activities ,80,x,x,,"17,639",,x,x,x,x,x,x,x,x,x,x
+Services to buildings and landscape activities ,81,5,x,,x,,x,"6,942",x,x,x,x,x,x,x,x
+"Office administrative, office support and other business support activities ",82,8,"16,976",4.9,"20,584",-5.1,x,"11,495","11,942","13,592","16,236","18,117",x,x,x,x
+  Public administration and defence; compulsory social security ,O,61,"30,458",3.8,"32,638",1.6,"15,527","21,259","22,514","23,793","26,606","34,034","40,072","42,876","45,982",x
+Public administration and defence; compulsory social security ,84,61,"30,458",3.8,"32,638",1.6,"15,527","21,259","22,514","23,793","26,606","34,034","40,072","42,876","45,982",x
+  Education ,P,84,"24,419",6.2,"25,930",1.0,"7,346","10,572","12,275","14,234","18,949","31,981","37,123","38,423","39,773",x
+Education ,85,84,"24,419",6.2,"25,930",1.0,"7,346","10,572","12,275","14,234","18,949","31,981","37,123","38,423","39,773",x
+  Human health and social work activities ,Q,130,"20,642",2.1,"24,354",1.7,"8,244","11,722","13,662","15,033","17,714","24,287","28,462","30,544","33,559",x
+Human health activities ,86,93,"24,477",2.1,"27,957",0.4,"9,828","15,301","17,155","18,478","21,134","28,289","31,997","34,906","36,465",x
+Residential care activities ,87,16,"14,614",2.1,"15,177",-0.3,x,"9,521","10,305","11,228","13,132","15,712","17,199","17,549",x,x
+Social work activities without accommodation ,88,21,"13,917",4.2,"15,296",3.0,"5,461","8,204","8,732","9,773","12,083","15,640",x,x,x,x
+"  Arts, entertainment and recreation ",R,12,"18,055",9.1,"18,891",-6.5,x,x,"11,057","12,216","15,707","20,646","22,196","24,059",x,x
+"Creative, arts and entertainment activities ",90,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+"Libraries, archives, museums and other cultural activities ",91,x,x,,"19,572",7.0,x,x,x,x,x,x,x,x,x,x
+Gambling and betting activities ,92,x,x,,x,,x,x,x,x,x,x,x,x,x,x
+Sports activities and amusement and recreation activities ,93,7,"18,674",13.1,"18,698",,x,x,x,x,"15,649",x,x,x,x,x
+  Other service activities ,S,10,"14,868",,"19,073",,x,x,x,x,"11,749",x,x,x,x,x
+Activities of membership organisations ,94,6,x,,"22,556",9.6,x,x,x,x,x,x,x,x,x,x
+Repair of computers and personal and household goods ,95,..,,,,,,,,,,,,,,
+Other personal service activities ,96,x,x,,x,,x,x,x,x,x,x,x,x,x,x
