@@ -3,6 +3,9 @@ library(ggplot2)
 library(magrittr)
 
 
+
+REGION <- "ni"
+
 REJECT_INDUSTRIES <- c(
   "other service activities",
   "water supply; sewerage, waste management & remediation activities",
@@ -116,6 +119,7 @@ sic_wage_distribution <- function(region = c("ni", "uk")) {
   return(violinChart)
 }
 
-
-sic_wage_distribution(region = "ni")
-industrial_level_wages(region = "ni")
+REGION %>%
+  sic_wage_distribution()
+REGION %>%
+  industrial_level_wages()
