@@ -144,8 +144,7 @@ generate_company_map <- function(firmData, toYear, sections = c(), sectionOnly =
         colour = section),
       alpha = 0.6) + 
     labs(
-      color = "Industry sector code",
-      title = paste0("All NI firms registered with Companies House: ", toYear)) +
+      color = "Industry sector code") +
     ylab("") + xlab("") +
     coord_cartesian(
       xlim = c(-8.25, -5),
@@ -160,6 +159,15 @@ generate_company_map <- function(firmData, toYear, sections = c(), sectionOnly =
       panel.background = element_blank(),
       axis.ticks = element_blank(),
       legend.position = ifelse(legend, "right", "none"))
+  
+  getwd() %>%
+    paste0("/images/map-all-ni-firms-", toYear,".png") %>%
+    ggsave(
+      plot = companiesEstablised,
+      device = "png", 
+      width = 19.83,
+      height = 14.74, 
+      units = "cm")
   
   return(companiesEstablised)
 }
@@ -277,7 +285,7 @@ NIFirms %<>%
 generate_company_map(
   firmData = NIFirms, 
   toYear = 2018, 
-  sections = c("J"),
+  sections = c(),
   sectionOnly = TRUE)
 
 NIFirms %<>% 
